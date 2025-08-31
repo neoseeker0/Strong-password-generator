@@ -4,7 +4,7 @@ This is a Python program that generates a string of random letters, numbers, and
 When you run the program, it opens up a window called "Strong password generator". 
 
 When the window is open, you can customize the password length. 
-  It can't shorter than 4 digits. If you try this, it will show an error.
+  It can't be shorter than 4 digits. If you try this, it will show an error.
 
 Next, you can choose which kinds of symbols you want in your password. By default, it is lowercase letters.
 
